@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_Bd.woff") format("woff");
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_BdIt.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_Lt.woff") format("woff");
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_LtIt.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee Rg";
+  src: url("../fonts/Speedee_W_Rg.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_Rg.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee";
+  src: url("../fonts/Speedee_W_It.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* speedee cd */
+
+@font-face {
+  font-family: "Speedee Cd";
+  src: url("../fonts/SpeedeeCd_W_Bd.woff") format("woff");
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee Cd";
+  src: url("../fonts/SpeedeeCd_W_Lt.woff") format("woff");
+  font-weight: 100;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Speedee Cd Rg";
+  src: url("../fonts/SpeedeeCd_W_Rg.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Speedee Cd";
+  src: url("../fonts/SpeedeeCd_W_Rg.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+.font-speedee {
+  font-family: "Speedee", "Hiragino Sans", メイリオ, Meiryo, "ＭＳ Ｐゴシック",
+    "MS PGothic", sans-serif;
+}
+
+.font-speedee-cd {
+  font-family: "Speedee Cd", "Hiragino Sans", メイリオ, Meiryo,
+    "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+.font-speedee-rg {
+  font-family: "Speedee Rg", "Hiragino Sans", メイリオ, Meiryo,
+    "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+.font-speedee-cd-rg {
+  font-family: "Speedee Cd Rg", "Hiragino Sans", メイリオ, Meiryo,
+    "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
